@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Panagiotis Logothetis 👋
 
-<!--
-**PanagiotisLogothetis/PanagiotisLogothetis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student at the **University of West Attica (UniWA)** in Athens, Greece, majoring in **Informatics and Computer Engineering (ICE)**.
 
-Here are some ideas to get you started:
+My academic focus is on **Software Engineering**, and willing to expand my specialization towards **Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 😎 SKILLS
+
+* **Core Languages:** Java, C++, C
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Data Science & AI:** Python (Machine Learning applications)
+* **Databases:** SQL
+* **Parallel Computing:** MPI programming
+
+#### 📫 Communication
+* **University Email:** [ice23390029@uniwa.gr](mailto:ice23390029@uniwa.gr)
+* **Personal Email:** [logothetis03panagiotis@gmail.com](logothetis03panagiotis@gmail.com)
+* **LinkedIn:** [Panagiotis Logothetis](www.linkedin.com/in/panagiotislogothetis)
